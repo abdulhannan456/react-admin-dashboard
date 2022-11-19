@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abdulhannan456/react-admin-dashboard/static/css/main.08ca7eda.css",
+    "main.js": "/abdulhannan456/react-admin-dashboard/static/js/main.5039bd08.js",
+    "index.html": "/abdulhannan456/react-admin-dashboard/index.html",
+    "main.08ca7eda.css.map": "/abdulhannan456/react-admin-dashboard/static/css/main.08ca7eda.css.map",
+    "main.5039bd08.js.map": "/abdulhannan456/react-admin-dashboard/static/js/main.5039bd08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ca7eda.css",
+    "static/js/main.5039bd08.js"
+  ]
+}
